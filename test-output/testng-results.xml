@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T07:23:29 IST" name="Default suite" finished-at="2024-04-15T07:23:42 IST" duration-ms="12986">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T07:23:29 IST" name="Default test" finished-at="2024-04-15T07:23:42 IST" duration-ms="12986">
+      <class name="com.Qa.testCases.FacebookLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Qa.testCases.FacebookLoginTest@6e6f2380]" started-at="2024-04-15T07:23:29 IST" name="setUp" finished-at="2024-04-15T07:23:34 IST" duration-ms="4810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="EnterUserName()[pri:1, instance:com.Qa.testCases.FacebookLoginTest@6e6f2380]" started-at="2024-04-15T07:23:34 IST" name="EnterUserName" finished-at="2024-04-15T07:23:37 IST" duration-ms="3179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUserName -->
+        <test-method signature="EnterPassword()[pri:2, instance:com.Qa.testCases.FacebookLoginTest@6e6f2380]" started-at="2024-04-15T07:23:37 IST" name="EnterPassword" finished-at="2024-04-15T07:23:39 IST" duration-ms="2241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterPassword -->
+        <test-method signature="clickOnLoginButton()[pri:3, instance:com.Qa.testCases.FacebookLoginTest@6e6f2380]" started-at="2024-04-15T07:23:39 IST" name="clickOnLoginButton" finished-at="2024-04-15T07:23:42 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoginButton -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.Qa.testCases.FacebookLoginTest@6e6f2380]" started-at="2024-04-15T07:23:42 IST" name="exit" finished-at="2024-04-15T07:23:42 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.Qa.testCases.FacebookLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
